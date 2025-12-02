@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+id btnCancel
+id btnSave
+id btnUpdate
+id etStudentAddress
+id etStudentId
+id etStudentName
+id etStudentPhone
+id menu_add_student
+id rvStudents
+id tvStudentId
+id tvStudentName
+layout activity_add_student
+layout activity_main
+layout activity_student_detail
+layout item_student
+menu menu_main
+string app_name

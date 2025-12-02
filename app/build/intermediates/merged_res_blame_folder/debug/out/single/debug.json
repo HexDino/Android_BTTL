@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.studentmanagerplus.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.studentmanagerplus.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studentmanagerplus.app-merged_res-32:/menu_menu_main.xml.flat",
+        "source": "com.example.studentmanagerplus.app-main-34:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.studentmanagerplus.app-merged_res-32:/layout_item_student.xml.flat",
+        "source": "com.example.studentmanagerplus.app-main-34:/layout/item_student.xml"
+    },
+    {
+        "merged": "com.example.studentmanagerplus.app-merged_res-32:/layout_activity_add_student.xml.flat",
+        "source": "com.example.studentmanagerplus.app-main-34:/layout/activity_add_student.xml"
+    },
+    {
+        "merged": "com.example.studentmanagerplus.app-merged_res-32:/layout_activity_student_detail.xml.flat",
+        "source": "com.example.studentmanagerplus.app-main-34:/layout/activity_student_detail.xml"
+    }
+]
